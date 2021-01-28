@@ -1,1 +1,2 @@
 # RayrMC
+## Auto Mod Installer
