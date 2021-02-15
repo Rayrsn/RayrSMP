@@ -1,2 +1,2 @@
-# RayrMC
+# RayrSMP
 ## Auto Mod Installer
