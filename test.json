@@ -1,9 +1,6 @@
 { 
 "name":"John",
 "age":30,
-"cars": [
-  {"car":"Ford"},
+"cars": [{"car":"Ford"},
   {"car":"BMW"},
-  {"car":"Fiat"}
-]
-}
+  {"car":"Fiat"}]}
